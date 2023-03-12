@@ -3,7 +3,7 @@ import numpy as np
 print("Hello World!")
 
 class KNN:
-    def __init__(self, k) -> None:
+    def __init__(self, k=3) -> None:
         self.k = k
     
     def fit(self, X, y):
@@ -16,7 +16,7 @@ class KNN:
         return [np.argmax(np.bincount(yyy)) for yyy in yy]
         
     def _predict_point(self, p):
-        return np.sum(np.sqrt((self.X - p) ** 2), axis=1)
+        return np.sqrt(np.sum((self.X - p) ** 2, axis=1))
 
 if __name__ == "__main__":
     # imports
