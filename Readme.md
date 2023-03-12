@@ -1,3 +1,3 @@
-# Machine Learning from scratch.
+# Machine Learning from scratch.
 
-## Reimplement classic machine learning algorithms from scratch using only python NumPy library.# Machine-Learning-from-Scratch
+Reimplement classic machine learning algorithms from scratch using only python NumPy library.
