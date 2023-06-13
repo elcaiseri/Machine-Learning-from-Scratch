@@ -5,3 +5,4 @@ Reimplement classic machine learning algorithms from scratch using only python N
 
 ### To do:
 1. add comments to explain the equations
+2. add MLP
