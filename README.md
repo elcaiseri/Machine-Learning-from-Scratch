@@ -1,6 +1,9 @@
-![Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
+<center>
+  
+<img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python" width="50%">
+<img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" alt="NumPy" width="50%">
 
-![NumPy](https://numpy.org/images/logos/numpy.svg)
+</center>
 
 This repository contains a collection of classic machine learning algorithms implemented from scratch using only the Python NumPy library.
 
@@ -27,7 +30,7 @@ Each algorithm is self-contained in its respective Python file.
 
 ## To-Do
 - Add comments to explain the equations used in each algorithm.
-- Implement the Multi-Layer Perceptron (MLP) algorithm.
+- ~~Implement the Multi-Layer Perceptron (MLP) algorithm.~~
 
 ## Usage
 You can use these implementations to explore and experiment with the behavior of classic machine learning algorithms. To get started, follow these steps:
